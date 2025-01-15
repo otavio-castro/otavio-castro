@@ -18,7 +18,8 @@
 
 <div>
   <a href="https://github.com/otavio-castro">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=otavio-castro&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_p"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=otavio-castro&show_icons=true&theme=one_dark_pro&title_color=F780F6&include_all_commits=true&count_p"/>
+    <img height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-castro&layout=compact&theme=one_dark_pro&title_color=F780F6"/>
   </a>
 </div>
     
