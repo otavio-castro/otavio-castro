@@ -30,7 +30,7 @@
 ### Contact
 
 <div> 
-  <a href="https://www.linkedin.com/in/ot%C3%A1vio-castro-766b2a289" target="_blank">
+  <a href="https://www.linkedin.com/in/otavio-nascimento-castro" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="mailto:otavionascimento1514@gmail.com" target="_blank">
