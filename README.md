@@ -40,18 +40,9 @@
 
 <!-- GitHub Stats -->
 <div align="center" style="margin-bottom: 40px;">
-  <a href="https://github.com/otavio-castro" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=otavio-castro&show_icons=true&theme=rose_pine&title_color=F762BC&include_all_commits=true&count_private=true" 
-      height="180"
-      alt="Otávio GitHub Stats"
-      style="margin-right: 15px;"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-castro&layout=compact&theme=rose_pine&title_color=F762BC" 
-      height="180"
-      alt="Top Languages"
-    />
+  <a href="https://github.com/otavio-castro" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats-kohl-ten-28.vercel.app/api?username=otavio-castro&show_icons=true&theme=rose_pine&title_color=F762BC&include_all_commits=true&count_private=true" height="180" alt="Otávio GitHub Stats" />
+    <img src="https://github-readme-stats-kohl-ten-28.vercel.app/api/top-langs/?username=otavio-castro&layout=compact&theme=rose_pine&title_color=F762BC" height="180" alt="Top Languages" />
   </a>
 </div>
 
