@@ -25,6 +25,7 @@
         <img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40" />
         <img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40" />
         <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" width="40" />
+        <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="40" width="40" />
         <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40" />
         <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" width="40" />
         <img alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" width="40" />
