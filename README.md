@@ -1,4 +1,4 @@
-<!-- HERO / IDENTIDADE -->
+<!-- HERO -->
 <div align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F762BC&width=550&lines=Hi,+I'm+Ot%C3%A1vio+Castro;Software+Engineer+%7C+Fullstack+Developer" 
@@ -16,7 +16,7 @@
 
 ---
 
-<!-- GIF CENTRAL -->
+<!-- GIF -->
 <div align="center">
   <img 
     src="https://i.redd.it/5wt1vl6ku4781.gif" 
@@ -32,7 +32,33 @@
 <div align="center">
 
 Software Engineer focused on building clean, scalable and efficient systems.  
-Passionate about frontend experience, backend architecture and elegant solutions.
+Passionate about backend architecture, frontend experiences and distributed systems.
+
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+<!-- FRONTEND + MOBILE -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,flutter,dart" />
+
+<br><br>
+
+<!-- BACKEND + CLOUD + DATABASE -->
+<img src="https://skillicons.dev/icons?i=cs,dotnet,azure,sqlserver,docker,redis,git" />
+
+</div>
+
+---
+
+## 🧩 Architecture & Messaging
+
+<div align="center">
+
+Azure Service Bus · SignalR · Event-driven systems · REST APIs · Microservices
 
 </div>
 
@@ -50,16 +76,6 @@ Passionate about frontend experience, backend architecture and elegant solutions
 
 ---
 
-## 🚀 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,cs,flutter,mysql,git&theme=light" />
-
-</div>
-
----
-
 ## 📫 Connect
 
 <div align="center">
@@ -72,7 +88,7 @@ Passionate about frontend experience, backend architecture and elegant solutions
 
 ---
 
-<!-- ASSINATURA -->
+<!-- SIGNATURE -->
 <div align="center">
 
 <sub>
