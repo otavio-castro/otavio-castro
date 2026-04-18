@@ -1,61 +1,60 @@
-<!-- HEADER -->
+<!-- HERO / IDENTIDADE -->
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F762BC&width=550&lines=Hi,+everyone!+I'm+Ot%C3%A1vio+Castro;Welcome+to+my+GitHub+profile!"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F762BC&width=550&lines=Hi,+I'm+Ot%C3%A1vio+Castro;Software+Engineer+%7C+Fullstack+Developer" 
   />
 </div>
 
 <br>
 
-<!-- HERO IMAGE -->
+<!-- QUOTE -->
+<div align="center">
+
+> “Machines take me by surprise with great frequency.” — Alan Turing
+
+</div>
+
+---
+
+<!-- GIF CENTRAL -->
 <div align="center">
   <img 
     src="https://i.redd.it/5wt1vl6ku4781.gif" 
-    width="180"
+    width="150"
     style="border-radius: 16px;"
   />
 </div>
 
 ---
 
-## 🚀 Technologies & Tools
+## 🧠 About
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+Software Engineer focused on building clean, scalable and efficient systems.  
+Passionate about frontend experience, backend architecture and elegant solutions.
 
 </div>
 
 ---
 
-## 🧠 Perspective
+## 📊 GitHub Insights
 
 <div align="center">
 
-> “Machines take me by surprise with great frequency.”  
-> — Alan Turing
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=otavio-castro&show_icons=true&theme=rose_pine&title_color=F762BC&icon_color=F762BC" />
 
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=otavio-castro&show_icons=true&theme=rose_pine&title_color=F762BC" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-castro&layout=compact&theme=rose_pine&title_color=F762BC" />
+
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,cs,flutter,mysql,git&theme=light" />
 
 </div>
 
@@ -73,8 +72,11 @@
 
 ---
 
+<!-- ASSINATURA -->
 <div align="center">
 
-Otávio Castro · building things that work
+<sub>
+Otávio Castro · software engineer · code, systems, ideas
+</sub>
 
 </div>
