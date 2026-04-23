@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otavio-castro&show_icons=true&theme=rose_pine&title_color=F762BC&icon_color=F762BC&text_color=e0def4&bg_color=191724&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=otavio-castro&show_icons=true&theme=rose_pine&title_color=F762BC&icon_color=F762BC&text_color=e0def4&bg_color=191724&hide_border=true&include_all_commits=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-castro&layout=compact&theme=rose_pine&title_color=F762BC&text_color=e0def4&bg_color=191724&hide_border=true" height="150" />
 </div>
 
